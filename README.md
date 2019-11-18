@@ -1,0 +1,1 @@
+# Bayesian-Analysis-of-Multiple-Binary-Outcomes
